@@ -8,10 +8,11 @@ body{
     width: 200px;
 
 }
-.mail{
-    color: black;
-    font-size: 18px;
-
+.mail, .phone, .linkedin, .twitter, .facebook, .portfolio{
+    color: #000;
+    font-size:18px; 
+    width:30px;
+    letter-spacing: 1px;
 }
 .edu{
     text-align: left;
