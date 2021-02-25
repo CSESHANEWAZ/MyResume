@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+}
+.intro{
+    width: 700px;
+}
+.pp{
+    width: 200px;
+
+}
+.mail{
+    color: black;
+    font-size: 18px;
+
+}
+.edu{
+    text-align: left;
+}
