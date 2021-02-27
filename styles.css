@@ -22,3 +22,7 @@ body{
 .edu{
     font-size: 18px;
 }
+.passing_year:{
+    text-align: right;
+    background-color: black;
+}
