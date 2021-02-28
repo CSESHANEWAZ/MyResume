@@ -1,9 +1,19 @@
 body{
     background-color: lightblue;
+    background-attachment: fixed;
+}
+#table1{
+    background-color:;
 }
 .intro{
     width: 700px;
 
+}
+#name{
+    color: blue;
+    font-size: 45px;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 2px;
 }
 .pp{
     width: 200px;
@@ -25,4 +35,7 @@ body{
 .passing_year:{
     text-align: right;
     background-color: black;
+}
+#interest{
+    font-size: 18px;
 }
