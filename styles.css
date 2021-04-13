@@ -1,6 +1,7 @@
 body{
     background-color: lightblue;
     background-attachment: fixed;
+    font-family: Cambria, sans-serif;
 }
 #table1{
     background-color:;
@@ -8,6 +9,9 @@ body{
 .intro{
     width: 700px;
 
+}
+.info{
+    font-size: 18px;
 }
 #name{
     color: blue;
@@ -36,9 +40,24 @@ body{
     text-align: right;
     background-color: black;
 }
+.edu_info{
+    font-size: 16px;
+}
 #interest{
     font-size: 18px;
 }
+.project{
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
+.dis{
+    color: #000;
+    font-weight: normal;
+    font-size: 16px;
+    font-style: italic;
+}
+
 .footer{
     font-size: 18px;
     font-family: Cambria, sans-serif;
